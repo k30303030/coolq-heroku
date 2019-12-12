@@ -1,0 +1,8 @@
+{
+  "name": "coolq ",
+  "description": "deploy coolq to Heroku.",
+  "keywords": ["coolq","CQ","Docker"],
+  "website": "https://github.com/onplus/v2hero",
+  "repository": "https://github.com/onplus/v2hero",
+  "stack": "container"
+ }
