@@ -1,1 +1,3 @@
  FROM coolq/wine-coolq
+ ENV VNC_PASSWD=11234.
+ EXPOSE 9000
