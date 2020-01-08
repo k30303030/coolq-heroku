@@ -15,5 +15,6 @@
 		}
 	},
 	"website": "https://blog.noki.tk",
-	"repository": "https://github.com/libsgh/coolq-heroku"
+	"repository": "https://github.com/libsgh/coolq-heroku",
+	"stack": "container"
 }
