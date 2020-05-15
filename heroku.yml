@@ -1,3 +1,5 @@
 build: 
   docker: 
     web: Dockerfile
+run:
+   web: docker run --name=coolq -d -p 9000:9000 -v `pwd`/coolq:/home/user/coolq -e VNC_PASSWD=asdqwer123654 coolq/wine-coolq
